@@ -1,0 +1,47 @@
+{"level":"error","message":"[Wed May 25 2022 13:00:06 GMT+0100 (West Africa Standard Time)] [DEBUG] [Config] Using .env.example file to supply config environment variables"}
+{"level":"info","message":"[Wed May 25 2022 13:00:07 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:1337"}
+{"level":"error","message":"[Wed May 25 2022 13:00:58 GMT+0100 (West Africa Standard Time)] [DEBUG] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 13:00:58 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:5000"}
+{"level":"info","message":"[Wed May 25 2022 13:04:08 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 13:04:08 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:5000"}
+{"level":"info","message":"[Wed May 25 2022 13:04:29 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 13:04:29 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:5000"}
+{"level":"info","message":"[Wed May 25 2022 13:11:45 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 13:11:45 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:5000"}
+{"level":"info","message":"[Wed May 25 2022 13:12:07 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 13:12:07 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:5000"}
+{"level":"info","message":"[Wed May 25 2022 13:15:35 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 13:15:35 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:5000"}
+{"level":"info","message":"[Wed May 25 2022 18:40:17 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 18:40:17 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:5000"}
+{"level":"info","message":"[Wed May 25 2022 18:41:49 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 18:41:49 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:5000"}
+{"level":"info","message":"[Wed May 25 2022 19:14:26 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:14:26 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:5000"}
+{"level":"info","message":"[Wed May 25 2022 19:36:39 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:37:22 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:37:50 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:37:51 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:39:07 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:39:08 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:39:33 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:39:34 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:39:57 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:39:58 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:41:12 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:41:13 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:42:04 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:42:05 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:42:36 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:42:36 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:44:16 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:44:17 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:44:20 GMT+0100 (West Africa Standard Time)] [INFO] [Connect] Database Connected"}
+{"level":"info","message":"[Wed May 25 2022 19:44:58 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:44:59 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:45:55 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:45:55 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:45:58 GMT+0100 (West Africa Standard Time)] [INFO] [Connect] Database Connected"}
+{"level":"info","message":"[Wed May 25 2022 19:50:54 GMT+0100 (West Africa Standard Time)] [INFO] [Config] Using .env file to supply config environment variable"}
+{"level":"info","message":"[Wed May 25 2022 19:50:55 GMT+0100 (West Africa Standard Time)] [INFO] [Server] Server running on localhost:3000"}
+{"level":"info","message":"[Wed May 25 2022 19:50:58 GMT+0100 (West Africa Standard Time)] [INFO] [Connect] Database Connected"}
